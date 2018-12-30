@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aporime Technologies</title>
+    <link>/</link>
+    <description>Recent content on Aporime Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>APORIME TECHNOLOGIES Aporime Technologies is founded by a group of highly experienced software engineers and enterprise architects who are specialized in the following areas:
+ Optimizations 3D graphics including VR and AR Multi-platform video game porting Scalable web architecture  OUR EXPERIENCES Before starting Aporime Technologies, we built highly scalable web services that have been serving the world&amp;rsquo;s biggest e-commerce companies, such as Walmart, Costco, FedEx, CVS, Staples, Sam&amp;rsquo;s Club and Quill.</description>
+    </item>
+    
+    <item>
+      <title>Citizens of Earth</title>
+      <link>/project/citizens-of-earth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/citizens-of-earth/</guid>
+      <description>This project was a classic game rendering engine porting work for a client who needed a skilled rendering engineers who can deliver multi-platform 3D engines in under tight deadlines.
+Quick Facts  Client: Eden Industries Publisher: Atlus Type: Game Porting Length: 2 Months Platforms: PS4, Wii U, PS Vita, Nintendo 3DS  Background When Eden Industries signed multi-platform deal with Atlus, the founder of Eden Industries, Ryan, quickly realized that he needs a rendering specialist who can port his in-house OpenGL rendering engine to 4 different game consoles.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> We are here to help you Got any hard tech problem you cannot solve? Drop us a message. Just fill out the form below and we&amp;rsquo;ll get back to you as soon as possible (usually within two business days).
+Loading... </description>
+    </item>
+    
+  </channel>
+</rss>

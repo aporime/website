@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aporime Technologies</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Aporime Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Citizens of Earth</title>
+      <link>/project/citizens-of-earth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/citizens-of-earth/</guid>
+      <description>This project was a classic game rendering engine porting work for a client who needed a skilled rendering engineers who can deliver multi-platform 3D engines in under tight deadlines.
+Quick Facts  Client: Eden Industries Publisher: Atlus Type: Game Porting Length: 2 Months Platforms: PS4, Wii U, PS Vita, Nintendo 3DS  Background When Eden Industries signed multi-platform deal with Atlus, the founder of Eden Industries, Ryan, quickly realized that he needs a rendering specialist who can port his in-house OpenGL rendering engine to 4 different game consoles.</description>
+    </item>
+    
+  </channel>
+</rss>
